@@ -1,4 +1,5 @@
 Introduction
+
 For my A-Level Computer Science NEA, I will be developing a Personal Finance and Investment Management System, using C#, HTML, CSS and SQLite.
 The purpose of the proposed project is to allow users to deal with their personal finances and investments all in one place. Many people find it difficult to keep track of their income, expenses, savings and investments, especially if they have to use different applications for that.
 To resolve this problem I have set up a website where anyone can sign up, log in, and get an overview of his own account balances.
@@ -11,7 +12,6 @@ Identification of the Problem
 
 Personal financial management can be a difficult task because there are so many different financial data to be recorded and classified.
 For example, the user needs to compute his monthly expenditure, to examine the amount of his savings, and to check the progress of his investments.
-If this information is kept in written form, it can be a long time before it is figured out and it is subject to mistakes.
 Another problem is that beginners often have a hard time understanding the stock exchange data and technical indicators.
 I’m working to develop a system that will combine the monetary and investment aspects into one single, all-encompassing web service.
 
